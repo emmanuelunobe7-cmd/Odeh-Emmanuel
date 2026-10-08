@@ -1,0 +1,6 @@
+{
+  "name": "EduRAG AI - Personalized Student Learning & Exam Mastery Platform",
+  "description": "AI-powered personalized student learning platform with RAG document retrieval (lecture notes, past questions), adaptive learning paths, exam progress tracking, and FastAPI + PostgreSQL pgvector architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

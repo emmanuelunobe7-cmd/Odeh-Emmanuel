@@ -1,0 +1,16 @@
+# EduRAG AI - University Computer Engineering Final Project
+# Python & FastAPI Backend Dependencies
+
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+google-genai>=0.1.1
+pgvector>=0.2.5
+psycopg2-binary>=2.9.9
+asyncpg>=0.29.0
+sqlalchemy>=2.0.28
+pydantic>=2.6.4
+python-multipart>=0.0.9
+python-dotenv>=1.0.1
+numpy>=1.26.4
+pypdf>=4.1.0
+python-docx>=1.1.0
